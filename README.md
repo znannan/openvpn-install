@@ -34,10 +34,10 @@ Once it ends, you can run it again to add more users, remove some of them or eve
 You can get a VPS from just $1/month at [VirMach](https://billing.virmach.com/aff.php?aff=4109&url=billing.virmach.com/cart.php?gid=18).
 
 ### Client-end configuration
-`sudo find / -type f -name "*.ovpn`
-`scp [yourUser]@[yourServerIP]:~/[your openVpn client user name].ovpn .`
-for iOS: https://itunes.apple.com/us/app/openvpn-connect/id590379981?mt=8
-for MacOS: https://tunnelblick.net/
-for Android: https://play.google.com/store/apps/details?id=net.openvpn.openvpn&hl=en
-for linux, Windows8/10: https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/
+ - `sudo find / -type f -name "*.ovpn`
+ - `scp [yourUser]@[yourServerIP]:~/[your openVpn client user name].ovpn .`
+ - for iOS: https://itunes.apple.com/us/app/openvpn-connect/id590379981?mt=8
+ - for MacOS: https://tunnelblick.net/
+ - for Android: https://play.google.com/store/apps/details?id=net.openvpn.openvpn&hl=en
+ - for linux, Windows8/10: https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/
 
